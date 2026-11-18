@@ -42,16 +42,6 @@ src/
   components/               # Modal, TodoForm, ConfirmDialog, Toast
 ```
 
-## Catatan integrasi REST API (pertemuan berikutnya)
-
-Ganti fungsi di `TodoContext.jsx`:
-
-- `useState(dummyTodos)` -> `GET /api/todos` dengan `useEffect`
-- `getTodo` -> `GET /api/todos/:id`
-- `addTodo` -> `POST /api/todos`
-- `updateTodo` -> `PUT /api/todos/:id`
-- `deleteTodo` -> `DELETE /api/todos/:id`
-
 ## Screenshot
 
 ### Halaman Daftar
