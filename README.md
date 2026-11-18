@@ -55,19 +55,19 @@ Ganti fungsi di `TodoContext.jsx`:
 ## Screenshot
 
 ### Halaman Daftar
-![Daftar](screenshots/list.png)
+![Daftar](Screenshoot/list.png)
 
 ### Halaman Daftar
-![Daftar](screenshots/berhasil_menambahkan.png)
+![Daftar](Screenshoot/berhasil_menambahkan.png)
 
 ### Modal Tambah Todo
-![Tambah](screenshots/add.png)
+![Tambah](Screenshoot/add.png)
 
 ### Halaman Detail
-![Detail](screenshots/detail.png)
+![Detail](Screenshoot/detail.png)
 
 ### Modal Update Todo
-![Update](screenshots/update.png)
+![Update](Screenshoot/update.png)
 
 ### Konfirmasi Hapus
-![Hapus](screenshots/delete.png)
+![Hapus](Screenshoot/delete.png)
