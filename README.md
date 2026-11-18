@@ -57,7 +57,7 @@ Ganti fungsi di `TodoContext.jsx`:
 ### Halaman Daftar
 ![Daftar](Screenshoot/list.png)
 
-### Halaman Daftar
+### Halaman Berhasil menambahkan
 ![Daftar](Screenshoot/berhasil_menambahkan.png)
 
 ### Modal Tambah Todo
