@@ -40,6 +40,9 @@ src/
   pages/TodoList.jsx        # halaman daftar
   pages/TodoDetail.jsx      # halaman detail + update
   components/               # Modal, TodoForm, ConfirmDialog, Toast
+  App.jsx                   # komponen utama, mengatur routing (/ dan /todo/:id)
+  index.css                 # styling global (tabel, modal, form, tombol, toast)
+  main.jsx                  # entry point, merender App dengan BrowserRouter dan TodoProvider
 ```
 
 ## Screenshot
