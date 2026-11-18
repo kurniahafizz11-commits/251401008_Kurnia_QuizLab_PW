@@ -51,3 +51,23 @@ Ganti fungsi di `TodoContext.jsx`:
 - `addTodo` -> `POST /api/todos`
 - `updateTodo` -> `PUT /api/todos/:id`
 - `deleteTodo` -> `DELETE /api/todos/:id`
+
+## Screenshot
+
+### Halaman Daftar
+![Daftar](screenshots/list.png)
+
+### Halaman Daftar
+![Daftar](screenshots/berhasil_menambahkan.png)
+
+### Modal Tambah Todo
+![Tambah](screenshots/add.png)
+
+### Halaman Detail
+![Detail](screenshots/detail.png)
+
+### Modal Update Todo
+![Update](screenshots/update.png)
+
+### Konfirmasi Hapus
+![Hapus](screenshots/delete.png)
