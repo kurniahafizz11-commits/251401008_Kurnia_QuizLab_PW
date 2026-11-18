@@ -29,8 +29,6 @@ Buka http://localhost:5173
 { id, title, description, priority, deadline, status }
 ```
 
-Sesuai ketentuan kuis agar mudah diintegrasikan dengan endpoint `/api/todos`.
-
 ## Struktur proyek
 
 ```
