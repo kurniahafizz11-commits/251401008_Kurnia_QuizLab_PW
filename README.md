@@ -63,5 +63,5 @@ src/
 ### Konfirmasi Hapus
 ![Hapus](Screenshoot/delete.png)
 
-### Konfirmasi Hapus
+### Berhasil dihapus
 ![Hapus](Screenshoot/berhasil_dihapus.png)
